@@ -1,0 +1,25 @@
+Features for MVP:
+main menu
+    play game
+        Directs to gameplay
+    quit
+        closes game
+
+
+Bomb, defusable via a puzzle of some kind (Gameplay)
+    create window and load puzzle
+    start timer and give player access
+
+
+
+
+a timer or strike system
+    basically a failure state if the player doesnt reach victory in time or simply tries to start pushing random buttons
+
+
+
+win/lose screen
+    main menu button
+
+
+
